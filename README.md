@@ -1,4 +1,4 @@
-# *Ammar's first ~~website!~~*
+# *Ammar's first website!*
 This is Ammar Badwan
 
 My GitHub link : [badwan95](http://github.com/badwan95)
@@ -12,5 +12,5 @@ Growth mindset is the mindset that allows you to be the most productive version 
 How to maintain growth mindset:
 1. *Try different learning tactics.*
 2. *Value the process over the end result*
-3. ***Stop** seeking approval.*
+3. ***Stop** ~~seeking approval~~.*
 
