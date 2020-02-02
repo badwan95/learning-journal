@@ -14,4 +14,3 @@ How to maintain growth mindset:
 2. *Value the process over the end result*
 3. ***Stop** seeking approval.*
 
-
