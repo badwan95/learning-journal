@@ -1,4 +1,4 @@
-# *Ammar's first website!*
+# *Ammar's first ~~website!~~*
 This is Ammar Badwan
 
 My GitHub link : [badwan95](http://github.com/badwan95)
