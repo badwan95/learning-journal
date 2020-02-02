@@ -2,7 +2,7 @@
 
 ## About me
 
-This is Ammar Badwan, I'm a Civil Engineer and "soon to be"coder, and i like cheese.
+My name is Ammar Badwan, I'm a Civil Engineer and "soon to be"coder, and i like cheese.
 
 My GitHub link : [badwan95](http://github.com/badwan95)
 
