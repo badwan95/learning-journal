@@ -1,7 +1,7 @@
 # *Ammar's first website!*
 This is Ammar Badwan
 
-My GitHub link : https://github.com/badwan95
+My GitHub link : [GitHub](http://github.com/badwan95)
 
 ## Growth Mindset
 
