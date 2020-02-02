@@ -1,9 +1,12 @@
 # ***Ammar's first website!***
-This is Ammar Badwan
+
+## About me
+
+This is Ammar Badwan, I'm a Civil Engineer and "soon to be"coder, and i like cheese.
 
 My GitHub link : [badwan95](http://github.com/badwan95)
 
-## Growth Mindset
+### Growth Mindset
 
 ![growth](https://irp-cdn.multiscreensite.com/069d5d93/dms3rep/multi/mobile/fixed.png)
 
