@@ -1,12 +1,12 @@
 # Coders Computer
 
-* Text Editors
+* **Text Editors**
 
 There is difference between text editors, for coding you must choose the best text editor that suits your needs, you need a text editor that does the most amount of work for the least amount of effort.
 
 you can use normal text editors for coding but there is specific text editors that are made specially for coding, they contain special use methods for coding like different colored syntax and suggestions for completion which normal text editors do not
 
-* Command line
+* **Command line**
 
 command lines or terminals are like the gui's of normal systems except with text, you can use it in correlation with your gui, so it can be your gui's friend and its normal to use both of them together
 
