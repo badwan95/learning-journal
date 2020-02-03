@@ -40,3 +40,7 @@ After cloning, you would have downloaded the repository locally.
 > git commit -m "your message"
 
 > git push origin master
+
+to download something from the repository, you can use 
+> git pull origin master
+
