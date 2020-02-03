@@ -24,6 +24,9 @@ The "HEAD" means the most recent commit, and its a special git label.
 
 * Typical commands in git terminal:
 
+> git remote -v
+to get the url of the repository
+
 > git clone URL
 
 After cloning, you would have downloaded the repository locally.
@@ -37,3 +40,7 @@ After cloning, you would have downloaded the repository locally.
 > git commit -m "your message"
 
 > git push origin master
+
+to download something from the repository, you can use 
+> git pull origin master
+
