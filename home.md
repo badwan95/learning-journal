@@ -6,8 +6,8 @@ This page is made in **VS Code**.
 
 * Table of Content:
 
-1- [Read02](https://badwan95.github.io/learning-journal/read02)
+1- [Read02-Coder's Computer](https://badwan95.github.io/learning-journal/read02)
 
-2- [Read03](https://badwan95.github.io/learning-journal/read03)
+2- [Read03-Revisions and the cloud git](https://badwan95.github.io/learning-journal/read03)
 
-3- [Read04](https://badwan95.github.io/learning-journal/read04)
+3- [Read04-HTML](https://badwan95.github.io/learning-journal/read04)
