@@ -28,3 +28,21 @@ There are different types of selectors:
 > h1, h2 .... type selector
 > .note --> class selector (can be used multiple times)
 > #note --> ID selector (can be used once only)
+
+## Color in CSS
+There are many ways to specify a color;
+
+1- Color names
+2- Hex codes: six digit codes that represent amount of blue red and green in a color preceded by a hash, like #ee3e80 
+3- RGB values; they range from 0 to 255 of each red green or blue like: rgb(100,50,90);
+
+**You can add a comment in css by using " /* .. */ "**
+
+Color commands in CSS:
+* color: white; (text color)
+* background-color 
+
+Using low contrast makes it hard to read text, using high contrast makes the text easier to read but not for long text, the best choice is medium contrast.
+
+
+
