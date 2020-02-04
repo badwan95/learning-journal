@@ -14,3 +14,7 @@ This page is made in **VS Code**.
 
 4- [Read05-CSS](https://badwan95.github.io/learning-journal/read05)
 
+5- [Read06a-JS](https://badwan95.github.io/learning-journal/read06a)
+
+6- [Read06b-Logic](https://badwan95.github.io/learning-journal/read06b)
+
