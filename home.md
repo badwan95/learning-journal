@@ -20,4 +20,6 @@ This page is made in **VS Code**.
 
 6- [Read07-Programming With JavaScript](https://badwan95.github.io/learning-journal/read07)
 
+7- [Read08-Operators and loops](https://badwan95.github.io/learning-journal/read08)
+
 
