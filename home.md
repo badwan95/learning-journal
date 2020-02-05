@@ -18,3 +18,6 @@ This page is made in **VS Code**.
 
 6- [Read06b-Logic](https://badwan95.github.io/learning-journal/read06b)
 
+6- [Read07-Programming With JavaScript](https://badwan95.github.io/learning-journal/read07)
+
+
