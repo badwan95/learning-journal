@@ -30,5 +30,11 @@ order of execution goes first to multiplication and division, then addition and 
 you can convert a string with a numerical value to a number by 
 > b = Number(b);
 
+## Functions: they let you group a series of statements together to perform a specific task so that you dont repeat steps.
+
+u can use it like this:
+> function functionName(parameters) {
+    something;
+}
 
 
