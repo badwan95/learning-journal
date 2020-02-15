@@ -64,6 +64,80 @@ Most common attributes are name and content attributes which tend to be used tog
 
 so if you want to type one of those special characters you must use one of the escape codes, like &lt that is left angled bracket.
 
+# HTML5 Layout
+
+HTML5 introduced new elements that allows you to divide up parts of the page, and they are named to indicate their purpose.
+
+Main parts of the new HTML5 code is: 
+
+> <nav>
+it contains major navigational blocks on the site
+
+> <article>
+It's a container to put text in, like a paragraph.
+
+> <div>
+its still important to use this to group together related elements.
+
+> <footer>
+usually contains info like copyright and trademarks
+
+> <hgroups> 
+they are headers
+
+* We can help older browsers understand HTML5 code even thought they treat it like an inline element, you need to use a simple javascript known as html5shiv or html5shim, this does not work on IE8 or earlier, except if you have extra javascript, you dont need to understand javascript to use it, just place it inside a conditional comment which checks if the browser version is less than IE9, but it requires javascript to be enabled.
+
+# Chapter 18: Process and Design
+
+* A website should be designed with one question in mind, who is it for? if its for an individual, then you should ask aaquestions about your target audience like: 
+1- What is their age range?
+
+2- Which countries your visitors live in?
+
+3- What is the average income for them?
+
+and many many more questions that help you define your target demographic, and if its a company then ask questions like how big is their company? what is the company's budget?
+
+* Site maps lets you plan website structure
+
+* Wireframe is a sketch that organizes where information on each page goes.
+
+* Differentiate between information using size, color and style, also you can use grouping and similarity to help simplify the information you present.
+
+# JavaScript: Introduction & CH1: ABC of Programming
+
+You need to know the vocabulary and structure of sentences in JS just like any new language you learn.
+
+You can access and modify the content of the HTML webpage using javascript, program rules and instructions for the browser to follow and react to the events of the browser or the user.
+
+jQuery helps with inconsistencies among different browsers.
+
+* Scripts are set of instructions that your computer follows step by step.
+Always start with a big picture and a plan on how to design your JS, first part of writing a script is stating your goal and the tasks that are needed to complete them, and then start coding each step.
+
+Scripts might use only a subset of all the instructions.
+
+* In computer programming, each physical thing in the world can be represented as an **object** (like the car and hotels in the book example), each object can have its own properties, events and methods.
+
+* Properties : like the color of the car and engine etc...
+
+Each property has a name and a value.
+
+* Events: is the computer's way of sticking up its hand to say, "Hey, this just happened!", its a part of the script to activate a specific portion of the script itself.
+
+* Methods: its like a set of instructions that are already defined, you just need to give it variables.
+
+Javascript doesnt change the source code of HTML, it just shows a link to the HTML file.
+
+
+
+
+
+
+
+
+
+
 
 
 

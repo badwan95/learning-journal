@@ -9,7 +9,7 @@ jQuery helps with inconsistencies among different browsers.
 * Scripts are set of instructions that your computer follows step by step.
 Always start with a big picture and a plan on how to design your JS, first part of writing a script is stating your goal and the tasks that are needed to complete them, and then start coding each step.
 
-Scripts can use only a subset of all the instructions.
+Scripts might use only a subset of all the instructions.
 
 ## Expressions
 

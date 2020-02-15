@@ -17,11 +17,11 @@ and many many more questions that help you define your target demographic, and i
 
 **HTML 5**
 
-HTML5 introduced new elements that allows you to devide up parts of the page, and they are named to indicate their purpose.
+HTML5 introduced new elements that allows you to divide up parts of the page, and they are named to indicate their purpose.
 
 Main header is the highest level of importance in a web page, it also helps with search engine optimization.
 
-Main parts of the HTML5 code is: 
+Main parts of the new HTML5 code is: 
 
 > <nav>
 it contains major navigational blocks on the site
